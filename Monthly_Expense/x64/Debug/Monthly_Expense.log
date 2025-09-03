@@ -1,0 +1,3 @@
+﻿  Monthly_Expense.cpp
+C:\Users\redju\source\repos\Monthly_Expense\Monthly_Expense\Monthly_Expense.cpp(56,44): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Monthly_Expense.vcxproj -> C:\Users\redju\source\repos\Monthly_Expense\x64\Debug\Monthly_Expense.exe
